@@ -1,6 +1,6 @@
 # GSCheckDuplicates
 
-
+The comparison between two structures is based on the proposal by  Grigoryan et al.(1) and Rogan et al.(2).
 
 (1) Grigoryan, V. G.; Springborg, M. Structure and Energetics of Ni Clusters with up to 150 Atoms. Chem. Phys. Lett. 2003, 375 (1–2), 219–226.
 
