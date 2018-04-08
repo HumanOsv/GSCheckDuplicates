@@ -3,6 +3,21 @@
 The comparison between two structures is based on the proposal by  Grigoryan et al.(1) and Rogan et al.(2). The criteria for
 uniqueness of the geometry are based on the cartesian coords (XYZ file format) (3).
 
+Getting started
+
+  a) - Prerequisites:
+
+    GSCheckDuplicates is written in perl. The program has only been tested on Mac OS X, Linux and Windows.
+
+  b) - Running GSCheckDuplicates program:
+
+    perl GS_Similarity.pl 0.005 
+
+    * 0.005 is threshold duplicate.
+
+    * The program call data base ./XYZ_data/
+
+
 
 
 
