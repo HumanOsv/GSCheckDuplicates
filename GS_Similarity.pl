@@ -198,7 +198,7 @@ sub index_elements {
 #
 my ($threshold_duplicate) = @ARGV;
 if (not defined $threshold_duplicate) {
-	die "\nGrigoryan Springborg Similarity must be run with:\n\nUsage:\n\tGrigoryan_Springborg_Similarity.pl [threshold duplicate]\n";
+	die "\nGrigoryan Springborg Similarity must be run with:\n\nUsage:\n\tGS_Similarity.pl [threshold duplicate]\n";
 	exit(1);  
 }
 ###################################
